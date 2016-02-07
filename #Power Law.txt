@@ -1,0 +1,5 @@
+#Power Law
+
+A power law is a relationship in which a relative change in one quantity gives rise to a proportional relative change in the other quantity, independent of the initial size of those quantities.
+
+Yaneer Bar-Yam. "Concepts: Power Law". New England Complex Systems Institute. Retrieved February 07,2016.

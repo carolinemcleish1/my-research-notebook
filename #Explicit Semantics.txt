@@ -1,0 +1,5 @@
+#Explicit Semantics
+
+This is the highlighting of language in order to catagorize words through meaning. In this example it was used to decipher violent language based on location. This is important in undertanding the differences and contrasts between generations. 
+
+Hitchcock, Tim. "Big Data for Dead People: Digital Readings and the Conundrums of Positivism".Historyonics. Published December 9,2013.

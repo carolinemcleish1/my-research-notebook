@@ -1,0 +1,5 @@
+#Resources
+
+Hitchcock focuses on the ways in which technology can catagorize and compare language of the past and present. Examples of this technology includes google books and Ngram viewer. 
+
+Hitchcock, Tim. "Big Data for Dead People: Digital Readings and the Conundrums of Positivism".Historyonics. Published December 9,2013.
